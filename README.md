@@ -17,15 +17,18 @@ This implementation covers the three main concepts of the RSA algorithm:
 ## 🚀 How to Run the Demo
 1. Clone this repository to your local machine:
    ```bash
-   git clone [[https://github.com/username-kamu/rsa-cryptosystem-from-scratch.git](https://github.com/rahmatsigma/rsa_cryptosystem.git)]
-Navigate to the project directory:
+   git clone [https://github.com/rahmatsigma/rsa_cryptosystem.git]
+   
+2. Navigate to the project directory:
 
-Bash
-cd rsa-cryptosystem
-Run the Python script to see the step-by-step RSA demonstration:
+   ```bash
+[cd rsa-cryptosystem]
 
-Bash
-python rsa_cryptosystem.py
+3. Run the Python script to see the step-by-step RSA demonstration:
+
+   ```bash
+[python rsa_cryptosystem.py]
+
 (Note: The program will print out every mathematical step, including Modulus calculation, Totient Euler, and the Keypair generation process).
 
 
