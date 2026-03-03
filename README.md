@@ -20,14 +20,12 @@ This implementation covers the three main concepts of the RSA algorithm:
    git clone [https://github.com/rahmatsigma/rsa_cryptosystem.git]
    
 2. Navigate to the project directory:
-
    ```bash
-[cd rsa-cryptosystem]
+   [cd rsa-cryptosystem]
 
 3. Run the Python script to see the step-by-step RSA demonstration:
-
    ```bash
-[python rsa_cryptosystem.py]
+   [python rsa_cryptosystem.py]
 
 (Note: The program will print out every mathematical step, including Modulus calculation, Totient Euler, and the Keypair generation process).
 
